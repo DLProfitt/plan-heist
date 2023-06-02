@@ -1,0 +1,15 @@
+C:\Users\user\workspace\heist\plan-heist\obj\Debug\net7.0\plan-heist.csproj.AssemblyReference.cache
+C:\Users\user\workspace\heist\plan-heist\obj\Debug\net7.0\plan-heist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\workspace\heist\plan-heist\obj\Debug\net7.0\plan-heist.AssemblyInfoInputs.cache
+C:\Users\user\workspace\heist\plan-heist\obj\Debug\net7.0\plan-heist.AssemblyInfo.cs
+C:\Users\user\workspace\heist\plan-heist\obj\Debug\net7.0\plan-heist.csproj.CoreCompileInputs.cache
+C:\Users\user\workspace\heist\plan-heist\bin\Debug\net7.0\plan-heist.exe
+C:\Users\user\workspace\heist\plan-heist\bin\Debug\net7.0\plan-heist.deps.json
+C:\Users\user\workspace\heist\plan-heist\bin\Debug\net7.0\plan-heist.runtimeconfig.json
+C:\Users\user\workspace\heist\plan-heist\bin\Debug\net7.0\plan-heist.dll
+C:\Users\user\workspace\heist\plan-heist\bin\Debug\net7.0\plan-heist.pdb
+C:\Users\user\workspace\heist\plan-heist\obj\Debug\net7.0\plan-heist.dll
+C:\Users\user\workspace\heist\plan-heist\obj\Debug\net7.0\refint\plan-heist.dll
+C:\Users\user\workspace\heist\plan-heist\obj\Debug\net7.0\plan-heist.pdb
+C:\Users\user\workspace\heist\plan-heist\obj\Debug\net7.0\plan-heist.genruntimeconfig.cache
+C:\Users\user\workspace\heist\plan-heist\obj\Debug\net7.0\ref\plan-heist.dll
